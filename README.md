@@ -2,7 +2,15 @@
 
 Hier is Kartik Riziya.
 
-      📫 How to reach me:
+      📫 How to reach me:I am Raj Kanani.
+
+📫 How to reach me:
+
+LinkedIn
+Gmail
+Instagram
+Facebook
+😄 Portfolio
       
 
 <!--
