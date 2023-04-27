@@ -2,7 +2,7 @@
 
 Hier is Kartik Riziya.
 
-  📫 How to reach me:
+      📫 How to reach me:
 
 <!--
 **kartikriziya/kartikriziya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
