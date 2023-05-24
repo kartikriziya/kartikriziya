@@ -1,15 +1,12 @@
 ### Hi there 👋
 
 Hier is Kartik Riziya.
-
-      📫 How to reach me:
       
 > 📫 How to reach me: 
-- [LinkedIn](https://www.linkedin.com/in/rajkanani)
-- [Gmail](mailto:rajkanani1206@gmail.com)
-- [Instagram](https://www.instagram.com/xii_vi/)
-- [Facebook](https://www.facebook.com/Raj.Kanani.in/)
-> 😄 [Portfolio](https://rajkanani1206.github.io/portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/kartik-riziya-6b3b83156)
+- [Gmail](mailto:kartikriziya30721@gmail.com)
+- [Instagram](https://www.instagram.com/kartik_riziya/)
+- [Facebook](https://www.facebook.com/profile.php?id=100004565117494)
       
 
 <!--
