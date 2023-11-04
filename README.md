@@ -3,6 +3,7 @@
 Hier is Kartik Riziya.
       
 > 📫 How to reach me: 
+- [Portfolio](https://www.kartikriziya.com)
 - [LinkedIn](https://www.linkedin.com/in/kartik-riziya-6b3b83156)
 - [Gmail](mailto:kartikriziya30721@gmail.com)
 - [Instagram](https://www.instagram.com/kartik_riziya/)
